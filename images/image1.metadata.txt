@@ -1,0 +1,21 @@
+Input Resolution
+720 x 1080px
+Created
+11/03/24 at 7:02 PM
+Pipeline
+Alchemy
+V2
+Seed
+990125824
+Preset
+Dynamic
+Prompt Magic
+-
+Init Strength
+No init image
+High Contrast
+-
+Leonardo Vision XL
+Finetuned Model
+
+Leonardo Vision XL
