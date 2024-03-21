@@ -1,0 +1,19 @@
+Input Resolution
+768 x 1360px
+Created
+15/03/24 at 1:25 AM
+Pipeline
+Alchemy
+V2
+Seed
+533892864
+Preset
+Creative
+PhotoReal
+On
+Model
+Leonardo Diffusion XL
+Init Strength
+No init image
+RAW Mode
+Off

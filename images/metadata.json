@@ -1,5 +1,8 @@
 {
   "image1": {
     "favorite": true
+  },
+  "image2": {
+    "favorite": false
   }
 }
