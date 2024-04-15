@@ -1,0 +1,23 @@
+
+~images = image8
+// Inspired from cairokee-song.inspiration.dream
+
+// images = image7, image6, image5, image4
+
+Visualize a breathtaking 2D anime-style illustration of
+~ تصور رسمًا توضيحيًا مذهلاً ثنائي الأبعاد بأسلوب الرسوم المتحركة
+
+// Idea
+🔮 The path of souls becomes clear and what is inside them becomes clear,
+~ فيتضح طريق النفوس ويتضح ما بداخلها
+
+🌞 The sun is rising and your star is rising,
+~ مسير الشمس تطلع ونجمك يطفي
+
+~ Input Resolution = 768 x 512px
+~ Pipeline = Alchemy V2
+~ Preset = Illustration
+~ Prompt Magic = -
+~ Init Strength = No init image
+~ High Contrast = - AlbedoBase XL
+~ Finetuned Model = AlbedoBase XL

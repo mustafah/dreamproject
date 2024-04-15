@@ -4,5 +4,26 @@
   },
   "image2": {
     "favorite": false
+  },
+  "image7": {
+    "favorite": true
+  },
+  "image6": {
+    "favorite": true
+  },
+  "image4": {
+    "favorite": true
+  },
+  "image9": {
+    "favorite": true
+  },
+  "image11": {
+    "favorite": true
+  },
+  "image37_1": {
+    "favorite": false
+  },
+  "image48_2": {
+    "favorite": true
   }
 }
