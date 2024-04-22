@@ -1,0 +1,16 @@
+(((photographic, photo, photogenic))), extremely high quality high detail RAW color photo, conversation between Minsoo and Ji-eun, romantic mood, party room ambiance, looking at each other, subtle smiling, Canon EOS R5 effect, focus on Ji-eun, soft lighting, warm tones, depth of field effect, intimate atmosphere, eye contact, elegant attire, candid moment, genuine expressions, detailed facial features, background party lights bokeh, emotional depth, nuanced skin tones
+
+// Parameters
+~ Input Resolution = 576 x 1024px
+~ Created = 15/03/24 at 7:59 PM
+~ Pipeline = Alchemy V2
+~ Seed = 624136704
+~ Preset = Retro
+~ PhotoReal = On
+~ Model = Leonardo Vision XL
+~ Init Strength = No init image
+~ RAW Mode = Off
+~ Workflow = PhotoReal v2
+~ Elements = Dark Arts Dark Arts 0.20 Colorful Scribbles Colorful Scribbles 0.10 Cute Emotes Cute Emotes 0.10 Sparklecore Sparklecore 0.80
+// Result
+~ images = image16
