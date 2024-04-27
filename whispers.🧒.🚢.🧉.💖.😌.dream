@@ -1,0 +1,57 @@
+// Inspired from soap-bubble.inspiration.dream
+
+~ Title =
+
+
+🖼️ a spectacular art exhibition where there is fluid biomorphic,
+~ معرض فني مذهل حيث يوجد سائل حيوي
+
+// #fbc2eb to #a6c1ee
+// "Cotton Candy color" to "Periwinkle color"
+theme colors range from from "Cotton Candy color" to "Periwinkle color"
+~ تتراوح ألوان السمات من "لون حلوى القطن" إلى "لون النكة"
+
+// theme colors range from from "Pale Pink color" to "Light Blue color"
+~ تتراوح ألوان السمات من "اللون الوردي الفاتح" إلى "اللون الأزرق الفاتح"
+
+// Idea
+
+As the spotlight illuminates the empty arena which is path of souls,
+~ كما ينير الضوء الساحة الفارغة التي هي طريق النفوس
+
+a male traveler look like modern egyptian actor , his movements fluid and graceful, with angelic face features,
+~ المسافر يشبه الممثل المصري الحديث، حركاته سلسة ورشيقة، وملامح وجهه ملائكية،
+
+
+In the end of the path, souls are revealed and what is inside them is revealed with each exhale,
+~ وفي نهاية الطريق تنكشف النفوس وينكشف ما بداخلها مع كل زفرة،
+
+// he creates a new soap bubble, each one a miniature world of its own,
+// reflecting the theme colors of his good and evil and the spot lighting,
+~ يقوم بإنشاء فقاعة صابون جديدة كل واحدة منها عبارة عن عالم مصغر خاص بها، يعكس ألوان موضوع الخير والشر والإضاءة الموضعية،
+
+// Negative
+// No flowers please
+
+// #fff1eb: Might be close to "FloralWhite" or "LemonChiffon"
+// #ace0f9: Falls in the realm of light blues, perhaps "PowderBlue" or a very light "SkyBlue"
+
+// Parameters
+~ Input Resolution = 768 x 1360px
+~ Created = 17/04/24 at 1:38 PM
+~ Pipeline = Alchemy V2
+~ Seed = 309417472
+~ Preset = Creative
+~ PhotoReal = On
+~ Model = Leonardo Vision XL
+~ Init Strength = No init image
+~ RAW Mode = Off
+~ Workflow = PhotoReal v2
+~ Elements = Sparklecore Sparklecore 0.20 Vintage Photography Vintage Photography 0.10 Digital Painting Digital Painting 0.20 Glowwave Glowwave 0.10
+// Result
+
+
+// Result
+
+// Result
+~ images = image23, image22_0, image22_1, image22_2, image22_3
