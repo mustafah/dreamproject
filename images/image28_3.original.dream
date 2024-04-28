@@ -1,0 +1,43 @@
+// Inspired from liquid.inspiration.dream
+
+~ Title = Photorealism of a "probiotic" liquid inside the...
+
+// Idea
+
+photorealism of a "probiotic" path tube with text ""souls path" at marble table at the store full of flowers, with floating bubbles in the background, bokeh, golden hour,
+
+
+// a spectacular art exhibition where there is fluid biomorphic,
+
+// As the spotlight illuminates the empty arena which is path of souls,
+
+// a muscular human from north africa reaching end of the path look,
+
+// with innocent face,
+
+
+In the end of the path, his soul is revealed and what is inside them is revealed,
+
+
+// Style
+// #fbc2eb to #a6c1ee
+// theme colors range from "Cotton Candy color" to "Periwinkle color"
+// theme colors range from "Cotton Candy color" to "Periwinkle color"
+//  #16d9e3 to #30c7ec to #46aef7
+//  "Bright Turquoise color" to "Vivid Sky Blue color" to "Dodger Blue color"
+
+
+// Parameters
+~ Input Resolution = 768 x 1024px
+~ Created = 28/04/24 at 6:31 PM
+~ Pipeline = Alchemy V2
+~ Seed = 881235200
+~ Preset = Cinematic
+~ PhotoReal = On
+~ Model = Leonardo Kino XL
+~ Init Strength = No init image
+~ RAW Mode = On
+~ Workflow = PhotoReal v2
+
+// Result
+~ images = image28_0, image28_1, image28_2, image28_3
