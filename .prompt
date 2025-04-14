@@ -1,0 +1,19 @@
+percent="100%"
+progressive=False
+chunk="None"
+
+question="
+
+   We want make a method called FromJson, that should take a json and convert it back to PostLandingLogCorrelationCommand object
+
+
+
+   ~> PostLandingLogCorrelationCommand.cs
+   ~> PostLandingLogCorrelationWellboreCommandModel.cs
+"
+
+file_list="
+    
+"
+
+search_dir="C:\FEGeosteeringUI\Addin_FEGeosteeringAdvisory\Sources"

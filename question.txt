@@ -1,0 +1,9 @@
+
+
+   We want make a method called FromJson, that should take a json and convert it back to PostLandingLogCorrelationCommand object
+
+
+
+   ~> PostLandingLogCorrelationCommand.cs
+   ~> PostLandingLogCorrelationWellboreCommandModel.cs
+
