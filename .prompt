@@ -4,16 +4,24 @@ chunk="None"
 
 question="
 
-   We want make a method called FromJson, that should take a json and convert it back to PostLandingLogCorrelationCommand object
+   UpdateMarker_WithTheSameName_InTheSameMarkerSet
+   Source:MultiWellLogCorrelationSelectTargetCommandHandlerTest.csline54
+   Duration:52 ms
 
+   Message:
+   Test method BHI.ReservoirNavigation.FEGeosteeringAdvisory.Application.UnitTest.Handlers.MultiWellLogCorrelationSelectTargetCommandHandlerTest.UpdateMarker_WithTheSameName_InTheSameMarkerSet threw exception: 
+   Moq.MockException: 
+   Expected invocation on the mock once, but was 0 times: x => x.SetTargetWell(It.IsAny<INavigationPlan>(), WellboreModel, MarkerInterpretationModel, [LogInfo].Select<LogInfo, ILogInfo>(l => (ILogInfo)l))
 
+   Performed invocations:
 
-   ~> PostLandingLogCorrelationCommand.cs
-   ~> PostLandingLogCorrelationWellboreCommandModel.cs
+      Mock<ILogCorrelationNavigationPlanVariablesDomainService:3> (x):
+      No invocations performed.
+
 "
 
 file_list="
-    
+    MultiWellLogCorrelationSelectTargetCommandHandlerTest.cs
 "
 
 search_dir="C:\FEGeosteeringUI\Addin_FEGeosteeringAdvisory\Sources"
