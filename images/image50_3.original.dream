@@ -1,0 +1,37 @@
+~ ID = l70-hKNkcCAC3Ogxkht-w
+
+~ ID = l70-hKNkcCAC3Ogxkht-w
+
+~ ID = l70-hKNkcCAC3Ogxkht-w
+
+~ ID = l70-hKNkcCAC3Ogxkht-w
+
+~ Inspiration = liquid.inspiration.dream
+~ Title = Universe Lab
+~ Unique ID = AUTO
+
+// Idea
+photorealism of a probiotic long tube at marble table, with floating bubbles in the background,
+In the end of the path, his soul is revealed and what is inside them is revealed,
+
+
+// Style
+// #fbc2eb to #a6c1ee
+theme colors range from "color of Cotton Candy " to "color of Periwinkle"
+
+~ Negative = 
+
+~ images = image50_0, image50_1, image50_2, image50_3, image36_0, image36_1, image36_2, image36_3
+
+// Parameters
+~ Input Resolution = 768 x 1360px
+~ Created = 28/04/24 at 8:44 PM
+~ Pipeline = Alchemy V2
+~ Seed = 568389888
+~ Preset = Cinematic (Close-Up)
+~ PhotoReal = On
+~ Model = Unknown Model
+~ Init Strength = No init image
+~ RAW Mode = Off
+~ Workflow = PhotoReal v2
+~ Elements = Sparklecore Sparklecore 0.20 Vintage Photography Vintage Photography 0.10 Digital Painting Digital Painting 0.20 Glowwave Glowwave 0.10
